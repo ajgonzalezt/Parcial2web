@@ -91,7 +91,7 @@ function Charts(props) {
       >
         <FormattedMessage id="charts" />
       </h2>
-      <div id="chart">
+      <div id="chartD3">
         <svg ref={Charts}></svg>
       </div>
     </div>
